@@ -1,0 +1,18 @@
+# PDF Processing
+pdf2image==1.16.3
+PyMuPDF==1.22.5
+pdfplumber==0.10.3
+
+# Image Processing and OCR
+opencv-python==4.9.0.80
+pytesseract==0.3.10
+Pillow==8.4.0
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.3
+
+# Utilities
+python-dotenv==1.0.1
+tqdm==4.66.1
+google-generativeai==0.3.2 
